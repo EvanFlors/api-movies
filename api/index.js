@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
                 <title>Movies API Rest</title>
             </head>
             <body>
-                <h1>Backend working</h1>
+                <h1>Movies API</h1>
             </body>
         </html>
     `
